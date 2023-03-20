@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.91c688fc.css",
-    "main.js": "/portfolio/static/js/main.eeca0fb7.js",
-    "static/media/professional.JPG": "/portfolio/static/media/professional.f089ae2a9eb48b5fe5ad.JPG",
-    "static/media/Resume - Andy Lam.pdf": "/portfolio/static/media/Resume - Andy Lam.faffdde8096d586ec7ce.pdf",
-    "index.html": "/portfolio/index.html",
-    "static/media/close.svg": "/portfolio/static/media/close.a76f38f40ed7612c31e39fb961171991.svg",
-    "static/media/open.svg": "/portfolio/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
-    "main.91c688fc.css.map": "/portfolio/static/css/main.91c688fc.css.map",
-    "main.eeca0fb7.js.map": "/portfolio/static/js/main.eeca0fb7.js.map"
+    "main.css": "/static/css/main.91c688fc.css",
+    "main.js": "/static/js/main.65054fe3.js",
+    "static/media/professional.JPG": "/static/media/professional.f089ae2a9eb48b5fe5ad.JPG",
+    "static/media/Resume - Andy Lam.pdf": "/static/media/Resume - Andy Lam.faffdde8096d586ec7ce.pdf",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.a76f38f40ed7612c31e39fb961171991.svg",
+    "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
+    "main.91c688fc.css.map": "/static/css/main.91c688fc.css.map",
+    "main.65054fe3.js.map": "/static/js/main.65054fe3.js.map"
   },
   "entrypoints": [
     "static/css/main.91c688fc.css",
-    "static/js/main.eeca0fb7.js"
+    "static/js/main.65054fe3.js"
   ]
 }
