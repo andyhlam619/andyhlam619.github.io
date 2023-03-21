@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-andylam/static/css/main.91c688fc.css",
-    "main.js": "/portfolio-andylam/static/js/main.a97e57cf.js",
-    "static/media/professional.JPG": "/portfolio-andylam/static/media/professional.f089ae2a9eb48b5fe5ad.JPG",
-    "static/media/Resume - Andy Lam.pdf": "/portfolio-andylam/static/media/Resume - Andy Lam.faffdde8096d586ec7ce.pdf",
-    "index.html": "/portfolio-andylam/index.html",
-    "static/media/close.svg": "/portfolio-andylam/static/media/close.a76f38f40ed7612c31e39fb961171991.svg",
-    "static/media/open.svg": "/portfolio-andylam/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
-    "main.91c688fc.css.map": "/portfolio-andylam/static/css/main.91c688fc.css.map",
-    "main.a97e57cf.js.map": "/portfolio-andylam/static/js/main.a97e57cf.js.map"
+    "main.css": "/andyhlam619.github.io/static/css/main.91c688fc.css",
+    "main.js": "/andyhlam619.github.io/static/js/main.a811216b.js",
+    "static/media/professional.JPG": "/andyhlam619.github.io/static/media/professional.f089ae2a9eb48b5fe5ad.JPG",
+    "static/media/Resume - Andy Lam.pdf": "/andyhlam619.github.io/static/media/Resume - Andy Lam.faffdde8096d586ec7ce.pdf",
+    "index.html": "/andyhlam619.github.io/index.html",
+    "static/media/close.svg": "/andyhlam619.github.io/static/media/close.a76f38f40ed7612c31e39fb961171991.svg",
+    "static/media/open.svg": "/andyhlam619.github.io/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
+    "main.91c688fc.css.map": "/andyhlam619.github.io/static/css/main.91c688fc.css.map",
+    "main.a811216b.js.map": "/andyhlam619.github.io/static/js/main.a811216b.js.map"
   },
   "entrypoints": [
     "static/css/main.91c688fc.css",
-    "static/js/main.a97e57cf.js"
+    "static/js/main.a811216b.js"
   ]
 }
