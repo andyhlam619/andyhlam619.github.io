@@ -70,7 +70,7 @@ const Project = ({ technologies, title, image, color, id, github, deployed, desc
         <img src={closeModal} className="closeMenu closeModal" onClick={handleCloseModal} alt="Close"></img>
         <h3 className="modalTitle">{title}</h3>
         <p className="projectDescription">{description}</p>
-        <button className="btn" onClick={() => (window.location.href = github)}>
+        <button className="btn" onClick={() => window.open(github, '_blank')}>
           GitHub Repo
         </button>
       </Modal>
